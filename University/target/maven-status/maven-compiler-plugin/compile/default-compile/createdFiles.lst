@@ -1,0 +1,17 @@
+com\cg\university\controller\UniversityController.class
+com\cg\university\repository\ProgramsScheduledRepository.class
+com\cg\university\exception\ExceptionResult.class
+com\cg\university\service\ApplicationServ.class
+com\cg\university\controller\AppController.class
+com\cg\university\aop\LoggingAspect.class
+com\cg\university\repository\ProgramsOfferedRepository.class
+com\cg\university\exception\UniversityManagementException.class
+com\cg\university\entity\ProgramsScheduled.class
+com\cg\university\entity\User.class
+com\cg\university\exception\UniversityExceptionHandler.class
+com\cg\university\service\ProgramsScheduledServ.class
+com\cg\university\UniversityApplication.class
+com\cg\university\entity\Application.class
+com\cg\university\service\ProgramsOfferedServ.class
+com\cg\university\entity\ProgramsOffered.class
+com\cg\university\repository\ApplicationRep.class
